@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "SmartGeoGMap\\": "app/"
+    }
+  },
+  "require": {
+    "lablnet/encryption": "^1.0",
+    "erusev/parsedown": "^1.7"
+  }
+}
